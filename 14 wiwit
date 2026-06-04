@@ -1,0 +1,6 @@
+name = input("คุณชื่ออะไรหรอ : ")
+score = int(input("คะแนนละ? : "))
+bonus = float(input("มีโบนัสไหม? : "))
+total = score + bonus
+print("คะแนนรวม :" , total, "คะแนน")
+print("ขอบคุณ" , name,"ที่มาทำแบบทกสอบครับ🐱")
