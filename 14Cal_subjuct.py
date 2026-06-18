@@ -18,3 +18,5 @@ elif Total >= 60 :
     print("ผ่าน")
 else:
     print("ควรปรับปรุง")
+
+print("Program by 14 wiwit")
