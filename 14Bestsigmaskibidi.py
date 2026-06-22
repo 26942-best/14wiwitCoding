@@ -22,3 +22,5 @@ elif total >= 60:
     print("Comment : ดี")
 else:
     print("Comment : ควรปรับปรุง")
+
+print("โปรแกรมคำนาณคะแนน 3 วิชา by นาย วิวิศน์ อินทะโพธิ์ เลขที่ 14")
