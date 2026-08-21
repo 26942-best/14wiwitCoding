@@ -13,7 +13,7 @@ from tkinter import ttk, messagebox, font
 from pathlib import Path
 
 # Force database to save directly in the Downloads folder
-DB_PATH = Path(r"C:\Users\Bangbowitthayakhom\Downloads\guidance_desktop.db")
+DB_PATH = "academic_guidance.db"
 
 # Modern Slate / Indigo Palette
 COLORS = {
